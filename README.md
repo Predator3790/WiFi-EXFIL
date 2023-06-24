@@ -51,7 +51,6 @@ Usage of these scripts for attacking targets without prior mutual consent is ill
 [Original script](https://github.com/thegoodhackertv/wifiExfil) provided by [Andrés Moreno](https://github.com/thegoodhackertv).
 
 [<img width=300 alt="patreon" src="https://i0.wp.com/thegoodhackertv.com/wp-content/uploads/2020/11/patreon.png">](https://www.patreon.com/thegoodhacker)
-
 [<img width=250 alt="buymeacoffe" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png">](https://www.buymeacoffee.com/thegoodhacker)
 
 <!-- ¡Un saludo desde México Andrés! -->
